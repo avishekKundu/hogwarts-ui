@@ -1,4 +1,4 @@
-# Hogwarts Leaderboard Backend
+# Hogwarts Leaderboard Frontend
 
 This is the **React frontend** for the Hogwarts Leaderboard system.  
 It connects to the Spring Boot backend and displays a **live updating leaderboard** using **Server-Sent Events (SSE)**.
